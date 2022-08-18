@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7a66e3be7a45784d9b92ab33f5a4b33, type: 3}
+  m_Name: Shoes03
+  m_EditorClassIdentifier: 
+  id: 0
+  itemName: "\uB300\uB2E8\uD55C \uC2E0\uBC1C"
+  itemImage: {fileID: 21300000, guid: 0c4070b52c1097b45972a973bc4bb5ad, type: 3}
+  itemPrefabs: {fileID: 8512622042332306338, guid: a97bfcfe867b75e409b5bbd09e491fe6, type: 3}
+  itemDescription: "\uC5C4\uCCAD \uC88B\uC544\uBCF4\uC774\uB294 \uC2E0\uBC1C\uC774\uB2E4.\n"
+  itemType: 0
+  itemCost: 300
+  ATKBonus: 0
+  DEFBonus: 7
+  HPBonus: 0
+  CriBouns: 0
+  equipmentType: 2

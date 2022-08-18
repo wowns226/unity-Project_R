@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 522282fb3dd169a498e2fd56986d4dd2, type: 3}
+  m_Name: Quest_KillTheBoss
+  m_EditorClassIdentifier: 
+  questName: "\uBCF4\uC2A4\uB97C \uC7A1\uC544\uB77C"
+  questDescription: "\uB9C8\uC9C0\uB9C9 \uBCF4\uC2A4\uB97C \uC7A1\uC544 \uB9C8\uC744\uC758
+    \uD3C9\uD654\uB97C \uB418\uCC3E\uC544\uB77C"
+  questProgress: 2
+  tasks:
+  - quest: {fileID: 11400000}
+    taskTargetObj: {fileID: 3688296934359245862, guid: 9ee28445a28784b4fb1516abec930960, type: 3}
+    taskTargetName: Boss
+    DisplayTargetName: "\uBCF4\uC2A4"
+    taskType: 1
+    requiredAmount: 1
+    currentAmount: 0
+  rewards:
+    items: []
+    coin: 99999
+  isGiveUp: 0

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7a66e3be7a45784d9b92ab33f5a4b33, type: 3}
+  m_Name: NeckLace03
+  m_EditorClassIdentifier: 
+  id: 0
+  itemName: "\uB300\uB2E8\uD55C \uBAA9\uAC78\uC774"
+  itemImage: {fileID: 21300000, guid: 48d883f8e2a882d48a49ef5175b5b7e0, type: 3}
+  itemPrefabs: {fileID: 8512622042332306338, guid: e78c342d996b5504f903688c7b767364, type: 3}
+  itemDescription: "\uACF5\uACA9\uB825\uACFC \uBC29\uC5B4\uB825\uACFC \uCCB4\uB825\uC744
+    \uAC01\uAC01  7 \uC99D\uAC00\uC2DC\uD0B5\uB2C8\uB2E4"
+  itemType: 0
+  itemCost: 300
+  ATKBonus: 7
+  DEFBonus: 7
+  HPBonus: 7
+  CriBouns: 0
+  equipmentType: 5

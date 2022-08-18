@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7a66e3be7a45784d9b92ab33f5a4b33, type: 3}
+  m_Name: Head02
+  m_EditorClassIdentifier: 
+  id: 0
+  itemName: "\uC131\uB2A5 \uC88B\uC740 \uD22C\uAD6C"
+  itemImage: {fileID: 21300000, guid: c474005543b92104f9abe9e62f673e5f, type: 3}
+  itemPrefabs: {fileID: 8512622042332306338, guid: 3a0ec28fff138ab48b2566d882330078, type: 3}
+  itemDescription: "\uC131\uB2A5\uC774 \uC88B\uC740 \uD22C\uAD6C\uC774\uB2E4."
+  itemType: 0
+  itemCost: 200
+  ATKBonus: 0
+  DEFBonus: 5
+  HPBonus: 0
+  CriBouns: 0
+  equipmentType: 0

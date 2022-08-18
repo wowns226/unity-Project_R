@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04a883a3836c569478b900182a009a9e, type: 3}
+  m_Name: Portion_Hp3
+  m_EditorClassIdentifier: 
+  id: 102
+  itemName: "\uB300\uD615 \uCCB4\uB825 \uD3EC\uC158"
+  itemImage: {fileID: 21300000, guid: 9bf75f4b7da8bda4ba991b19fa1246f7, type: 3}
+  itemPrefabs: {fileID: 8512622042332306338, guid: d89281cb05d0e6144b2001f0fd89b3da, type: 3}
+  itemDescription: "\uCCB4\uB825\uC744 50 \uD68C\uBCF5\uC2DC\uCF1C\uC90D\uB2C8\uB2E4"
+  itemType: 1
+  itemCost: 100
+  HealValue: 50
+  usableType: 0

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Weapon
+  - NPC
+  - Enemy
+  - World
+  - Obtacle
+  - Plane
+  - PlayerInfo
+  - Melee
+  - EnemyBullet
+  - Skill
+  - Portal
+  - Item
+  - Spawner
+  - Shop
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Melee
+  - 
+  - Floor
+  - Player
+  - Wall
+  - Obtacle
+  - Enemy
+  - EnemyDead
+  - EnemyBullet
+  - Skill
+  - NPC
+  - Portal
+  - Item
+  - Spawner
+  - Shop
+  - Minimap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

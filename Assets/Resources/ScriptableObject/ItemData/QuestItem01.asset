@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3219773e874e16b41a29064f7cd9bd24, type: 3}
+  m_Name: QuestItem01
+  m_EditorClassIdentifier: 
+  id: 0
+  itemName: "\uC2AC\uB77C\uC784\uC758 \uB208"
+  itemImage: {fileID: 21300000, guid: eb89ee569d70f724c86039e964720c6f, type: 3}
+  itemPrefabs: {fileID: 8512622042332306338, guid: dbc15240099267e4ea05a03980d348f0, type: 3}
+  itemDescription: "\uC2AC\uB77C\uC784\uC758 \uB208\uC778\uB4EF\uD558\uB2E4"
+  itemType: 2
+  itemCost: 10
