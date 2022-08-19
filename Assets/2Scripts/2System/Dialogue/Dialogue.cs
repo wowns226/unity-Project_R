@@ -5,6 +5,7 @@ using TMPro;
 
 public class Dialogue : MonoBehaviour
 {
+	
     public static bool dialogueActivated = false;
 
     #region Dialogue SingleTon
